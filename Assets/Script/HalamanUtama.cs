@@ -11,4 +11,9 @@ public class HalamanUtama : MonoBehaviour
     public void KeluarAplikasi(){
         Application.Quit();
     }
+    public void Namasaya(){
+    Application.Quit();
+    }
 }
+
+
