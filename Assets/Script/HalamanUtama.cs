@@ -14,6 +14,15 @@ public class HalamanUtama : MonoBehaviour
     public void Namasaya(){
     Application.Quit();
     }
+    public void coba1(){
+    Application.Quit();
+    }
+    public void coba2(){
+    Application.Quit();
+    }
+    public void coba3(){
+    Application.Quit();
+    }
 }
 
 
